@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#FFC107</color>
+    <color name="colorPrimaryDark">#BA8C01</color>
+    <color name="colorAccent">#FFFFFF</color>
+
+    <color name="secondaryColor">#FFC107</color>
+    <color name="primaryColor">#FFFFFF</color>
+    <color name="cart_tint">#ff5e00</color>
+</resources>
